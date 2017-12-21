@@ -1,2 +1,0 @@
-# JSE
-Java Standard Edition
