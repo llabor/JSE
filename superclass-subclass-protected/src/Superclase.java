@@ -1,4 +1,8 @@
-
+/**
+ * @author Ezequiel Llarena Borges
+ * @version 1.0
+ * @since jan 2018 
+ * */
 public class Superclase {
 	
 	private int a;
