@@ -1,4 +1,8 @@
-
+/**
+ * @author Ezequiel Llarena Borges
+ * @version 1.0
+ * @since jan 2018 
+ * */
 public class DivisionPorCero {
 
 	public static void main(String[] args) {
@@ -15,10 +19,10 @@ public class DivisionPorCero {
 		} catch (ArithmeticException e) {
 			System.out.println("Error: " + e.getMessage());
 		} finally { // opcional, se ejecuta siempre
-			System.out.println("DivisiÛn: " + division);
+			System.out.println("Divisi√≥n: " + division);
 		}
 		dividir();
-		System.out.println("El programa continua ejecut·ndose...");
+		System.out.println("El programa continua ejecut√°ndose...");
 	;}
 	
 	 // throws
@@ -28,7 +32,7 @@ public class DivisionPorCero {
 		try {
 			System.out.println(numerador / denominador);
 		} finally {
-			System.out.println("DivisiÛn por cero!");
+			System.out.println("Divisi√≥n por cero!");
 		}
 	}
 }
