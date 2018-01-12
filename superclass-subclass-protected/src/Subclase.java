@@ -1,4 +1,8 @@
-
+/**
+ * @author Ezequiel Llarena Borges
+ * @version 1.0
+ * @since jan 2018 
+ * */
 public class Subclase extends Superclase{
 	
 	private int c;
@@ -10,7 +14,7 @@ public class Subclase extends Superclase{
 	}
 	
 	public void TestProtected() {
-		//super.a = 4; a es 'private' => inaccesible desde aquÌ
+		//super.a = 4; a es 'private' => inaccesible desde aqu√≠
 		super.b = 0; // Confirmamos que podemos acceder desde esta subclase 
 	}                // al atributo 'protected' b de la superclase.
 }
