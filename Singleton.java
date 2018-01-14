@@ -62,8 +62,8 @@ class TestClass {
 		print("obj31", obj31);
 		
 		//Clone
-		Singleton obj311 = (Singleton) obj2.clone();
-		print("obj311", obj311);
+		Singleton obj4 = (Singleton) obj1.clone();
+		print("obj4", obj4);
 		
 		oos.close();
 		ois.close();
