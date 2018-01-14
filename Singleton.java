@@ -53,7 +53,7 @@ class TestClass {
 		Singleton obj3 = con.newInstance();
 		print("obj3", obj3);
 		
-		//Serialization (To be finished)
+		//Serialization (To be finished, it doesn't create/write file obj2.ser)
 		ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("/tmp/obj2.ser"));
 		oos.writeObject(obj2);
 		
