@@ -4,7 +4,7 @@ Java Standard Edition
 Shortkey  | Usage
 ---       | ---
 `CTRL + D` | Borrar línea
-`CTRL + 7` | Comentar bloque de lineas seleccionado
+`CTRL + 7` | Comentar bloque de lineas seleccionado con //
 `syso + CTRL + spacebar` | Insertar sentencia System.out.println("");
 `F3` | Saltar a punto donde está implementado el método seleccionado
 
