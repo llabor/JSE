@@ -1,6 +1,14 @@
 # JSE
 Java Standard Edition
-## Import a repository from Eclipse
+## Eclipse Shortkeys
+Shortkey  | Usage
+---       | ---
+`CTRL + D` | Borrar línea
+`CTRL + 7` | Comentar bloque de lineas seleccionado
+`syso + CTRL + spacebar` | Insertar sentencia System.out.println("");
+`F3` | Saltar a punto donde está implementado el método seleccionado
+
+## Import a Git repository from Eclipse
 1. Go to File / Import
 2. Select Git / Projects from Git
 3. Select Clone URI
