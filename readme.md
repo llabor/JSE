@@ -20,6 +20,6 @@ Shortkey  | Usage
 ## Work Environment
 Usage     | Link
 ---       | ---
-JDK | [Java Development Kit](https://github.com/angular)
-IDE | [Eclipse](https://github.com/angular)
-JDBC API | [Java Data Base Connector](https://github.com/angular)
+JDK | [Java Development Kit](http://www.oracle.com/technetwork/es/java/javase/downloads/index.html)
+IDE | [Eclipse](https://www.eclipse.org/home/index.php)
+JDBC API | [Java Data Base Connector](https://dev.mysql.com/downloads/connector/j/5.0.html)
